@@ -1,0 +1,60 @@
+{
+    "id": "f41a4c7d-2c10-4cbd-adc3-d9a7e4defa1d",
+    "name": "BKK001",
+    "address": "Bangkok",
+    "lat": 13.8523169829881,
+    "long": 100.56300313727,
+    "description": "Museum of art",
+    "height": 5.5,
+    "battery": 13.7,
+    "siteImage": "https://thaismartpole.quest/detectelephent/03-10-23/image.png",
+    "status": "On",
+    "createdAt": "2023-10-19T10:37:27.494Z",
+    "updatedAt": "2023-10-19T10:37:27.494Z",
+    "cameras": [
+        {
+            "id": "d4a27829-3259-4bf4-9a8c-25c5046f7105",
+            "direction": null,
+            "band": "dahua",
+            "serie": null,
+            "height": 10,
+            "count": "1",
+            "createdAt": "2023-10-19T10:38:54.178Z",
+            "updatedAt": "2023-10-19T10:38:54.178Z",
+            "site_id": "f41a4c7d-2c10-4cbd-adc3-d9a7e4defa1d"
+        },
+        {
+            "id": "6f5499bd-e7fe-4159-814e-c0a22107945e",
+            "direction": null,
+            "band": "dahua",
+            "serie": null,
+            "height": 10,
+            "count": "2",
+            "createdAt": "2023-10-19T10:45:17.101Z",
+            "updatedAt": "2023-10-19T10:45:17.101Z",
+            "site_id": "f41a4c7d-2c10-4cbd-adc3-d9a7e4defa1d"
+        }
+    ],
+    "results": [
+        {
+            "id": "879f2bae-8f65-4b39-a3cb-73504a227645",
+            "path": "/elephant_002",
+            "url": "https://xxx.mp4",
+            "result_type": "Clip",
+            "createdAt": "2023-10-19T10:45:03.516Z",
+            "updatedAt": "2023-10-19T10:45:03.516Z",
+            "camera_id": "d4a27829-3259-4bf4-9a8c-25c5046f7105",
+            "site_id": "f41a4c7d-2c10-4cbd-adc3-d9a7e4defa1d"
+        },
+        {
+            "id": "756993cd-31f9-4c91-99f0-0298c918b233",
+            "path": "/elephant_001",
+            "url": "https://xxx.mp4",
+            "result_type": "Clip",
+            "createdAt": "2023-10-19T10:40:06.977Z",
+            "updatedAt": "2023-10-19T10:40:06.977Z",
+            "camera_id": "d4a27829-3259-4bf4-9a8c-25c5046f7105",
+            "site_id": "f41a4c7d-2c10-4cbd-adc3-d9a7e4defa1d"
+        }
+    ]
+}
